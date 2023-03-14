@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.getElementById("content"),t=document.createElement("main"),n=document.createElement("div");e.appendChild(function(){const e=document.createElement("header"),t=document.createElement("h1");return document.createElement("img"),document.createElement("div"),t.textContent="Weather App",e}()),e.appendChild(t),t.appendChild(n)})();
