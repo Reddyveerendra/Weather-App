@@ -43,8 +43,8 @@ function script() {
         div.appendChild(p1);
         div.appendChild(p2);
         div.appendChild(p3);
-        div.style = "display:block;padding:3%;background:#1E212D ;color:#FAF3E0;text-align:center;border-radius: 14px;";
-        h2.style = "color:#6870E0";
+        div.style = "display:block;padding:3%;background:rgba(255, 255, 255, .15) ;color:honeydew;text-align:center;backdrop-filter: blur(10px); border-radius: 15px;";
+        main.style="padding: 10px;"
         main.appendChild(div);
     }`
 

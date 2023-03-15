@@ -13,7 +13,7 @@ function main() {
     button.value = "Search";
     button.type = "button";
     from.style = "gap: 10px; display: flex; height: fit-content;"
-    main.style = "background: rgb(104, 112, 224);display: grid;grid-template-rows: 1fr 13fr;padding: 25px;justify-content: center;";
+    main.style = "background: url(https://raw.githubusercontent.com/Reddyveerendra/Weather-App/main/image/main.jpg);display: grid;grid-template-rows: 1fr 13fr;padding: 25px;justify-content: center;background-repeat: round;";
     button.style = "background:#1E212D;color:white";
     button.setAttribute("onclick", "perform()")
     main.appendChild(result);

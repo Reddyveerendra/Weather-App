@@ -8,9 +8,9 @@ function header() {
     img.alt = "weather.img";
     div.appendChild(img);
     div.appendChild(h1);
-    div.style = "display: flex;alidisplay: flex;height: 58px;align-items: center;justify-content: center;background: lightslategrey;gn-items: center;justify-content: center;background: #1E212D;"
+    div.style = "display: flex;height: 58px;align-items: center;justify-content: center;background: black;gn-items: center;justify-content: center;"
     img.style = "height:61px;"
-    h1.style = "color:#ACB4F4"
+    h1.style = "color: rgb(254 254 255);"
     header.appendChild(div);
     return header;
 }
